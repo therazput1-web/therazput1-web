@@ -105,15 +105,40 @@ drwxr-xr-x  my-website-/             # personal website experiments [PUBLIC]
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=therazput1-web&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=c9d1d9&area=true&hide_border=true" width="86%" alt="activity graph"/>
-
-<br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=therazput1-web&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="86%" alt="trophy case"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=therazput1-web&style=flat-square&color=00FF00&label=profile.views" alt="views"/>
+
+</div>
+
+---
+
+### `root@razput:~# ./contribution --graph --live`
+
+```console
+$ ./contribution --graph --live
+[ OK ] fetching commit history .............. done
+[ OK ] rendering green grid ................. done
+[ OK ] snake deployed ....................... done
+> every green square = one day of building.
+> the snake eats my commits. feed it daily.
+```
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00FF00/therazput1-web" width="100%" alt="contribution calendar"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=therazput1-web&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=c9d1d9&area=true&hide_border=true" width="100%" alt="activity graph - live attack map"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/therazput1-web/therazput1-web/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+`s> the snake eats my commits. feed it daily.`
 
 </div>
 
